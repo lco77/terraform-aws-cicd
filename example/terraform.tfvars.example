@@ -1,0 +1,8 @@
+app_name_prefix            = "example"
+app_repo_production_branch = "main"
+aws_region                 = "eu-west-1"
+cicd_repository_name       = "example"
+terraform_version          = "1.5.7"
+compute_type               = "BUILD_GENERAL1_MEDIUM"
+cicd_key_arn               = "kms-key-arn"
+cicd_bucket_name           = "s3-bucket-name"
